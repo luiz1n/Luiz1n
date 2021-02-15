@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="center">
+I am a Brazilian, <strong>2 years of coding</strong> 🧐.
+</p>
 
-<!--
-**luiz1n/Luiz1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><strong>Languages</strong></p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img align="center" src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/b2ba4ef85dcb7a18e7ab5538db7785f15f9f43cd/images/python.svg' width='30'/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Luiz1n&show_icons=true&theme=radical" alt="Kawan"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz1n&hide=html&layout=compact&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
+  <img align="center" src="https://img.shields.io/badge/Developer-141321?style=flat-square&logo=homebrew"/>
+</p>
