@@ -12,15 +12,16 @@ I am a Brazilian, <strong>2 years of coding</strong> 🧐.
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Luiz1n&show_icons=true&theme=radical" alt="Kawan"/>
-</p>
-
 <p align="center>
 <a href="https://github.com/diogocsbr/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocsbr&theme=dracula" />
 </a>
 </p>
+                                                                                                                
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Luiz1n&show_icons=true&theme=radical" alt="Kawan"/>
+</p>
+
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz1n&hide=html&layout=compact&show_icons=true&theme=radical" />
